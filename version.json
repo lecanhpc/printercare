@@ -1,8 +1,9 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "releaseDate": "2026-11-20",
   "downloadUrl": "https://raw.githubusercontent.com/lecanhpc/printercare/main/PrinterCarePro_Update.zip",
   "changelog": [
+    "Bảo lưu 100% thời hạn dùng thử 7 ngày và Key VIP khi nâng cấp qua GitHub",
     "Đã sửa lỗi tải driver Canon UFR II qua mạng LAN",
     "Khởi động siêu tốc với Splash Screen giao diện mới"
   ]
