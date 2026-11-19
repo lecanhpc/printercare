@@ -1,0 +1,9 @@
+{
+  "version": "2.5.1",
+  "releaseDate": "2026-11-20",
+  "downloadUrl": "https://raw.githubusercontent.com/lecanhpc/printercare/main/PrinterCarePro_Update.zip",
+  "changelog": [
+    "Đã sửa lỗi tải driver Canon UFR II qua mạng LAN",
+    "Khởi động siêu tốc với Splash Screen giao diện mới"
+  ]
+}
